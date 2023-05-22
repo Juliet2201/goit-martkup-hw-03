@@ -163,7 +163,7 @@ margin-right: auto;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--section-title-color);
-  visibility: hidden;
+  visually
 }
 .priorities-list {
   list-style:none
